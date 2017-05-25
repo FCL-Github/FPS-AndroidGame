@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\chapter3\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\chapter3\Scripts\Player.cs" Line="211" Column="54" />
+      <File FileName="Assets\chapter3\Scripts\GameManager.cs" Line="115" Column="2" />
+      <File FileName="Assets\chapter3\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\chapter3\Scripts\EnemySpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\chapter3\Scripts\AutoDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\chapter3\Scripts\MiniCamera.cs" Line="1" Column="1" />
+      <File FileName="..\..\MobileGameProject\chapter10_Android_touch\Assets\AndroidTouch.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

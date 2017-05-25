@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cb0d7249faceb54b99534a232b27822
+timeCreated: 1492845417
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_transform: {fileID: 4000012327801080, guid: 8ba276633ae9ca0428af5deae3cb5646,
+      type: 2}
+  - m_fx: {fileID: 400000, guid: 3b09d7f82b70762419baab3ccf6035f8, type: 2}
+  - m_audio: {fileID: 8300000, guid: 5563300513194cb41a74da2d208b7755, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
